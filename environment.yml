@@ -1,0 +1,11 @@
+name: social_motive_model
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - r-base=4.2
+  - r-r2jags
+  - r-polspline
+  - r-tidyverse
+  - r-knitr
+  - r-rmarkdown
